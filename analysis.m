@@ -1,5 +1,4 @@
-%% Aayam Shrestha
-%% Assignment 1: Using Breast Cancer Data Set
+%% Breast Cancer Data Set - Analysis I
 %% Load Dataset
 
 table = readtable("dataR2.csv");
